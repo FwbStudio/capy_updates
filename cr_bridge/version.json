@@ -1,5 +1,6 @@
 {
+    "script": "cr_bridge",
     "latest_version": "1.0.0",
-    "download_url": "https://github.com/FWB-Studio/fs_bridge/releases/latest",
+    "download_url": "https://portal.cfx.re/assets/granted-assets",
     "message": "New update available"
 }
