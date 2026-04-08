@@ -1,16 +1,16 @@
 {
-    "cr_bridge": {
+    "fs_test": {
         "latest_version": "1.0",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
     },
-    "cr_simpleshops": {
-        "latest_version": "1.2",
+    "fs_brownies": {
+        "latest_version": "1.0",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
     },
-    "fs_bridge": {
-        "latest_version": "1.5",
+    "fs_link": {
+        "latest_version": "1.0",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
     }
