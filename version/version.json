@@ -13,5 +13,10 @@
         "latest_version": "1.0",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
+    },
+    "fs_tranquilizer": {
+        "latest_version": "1.0",
+        "download_url": "https://portal.cfx.re/assets/granted-assets",
+        "message": "New update available"
     }
 }
