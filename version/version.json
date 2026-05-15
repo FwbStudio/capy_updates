@@ -1,21 +1,21 @@
 {
     "fs_test": {
-        "latest_version": "1.0",
+        "latest_version": "v1.0",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
     },
     "fs_brownies": {
-        "latest_version": "1.0",
+        "latest_version": "v1.0",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
     },
     "fs_link": {
-        "latest_version": "1.0",
+        "latest_version": "v1.0",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
     },
     "fs_tranquilizer": {
-        "latest_version": "1.1",
+        "latest_version": "v1.1",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
     }
