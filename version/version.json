@@ -1,9 +1,4 @@
 {
-    "fs_test": {
-        "latest_version": "v1.0",
-        "download_url": "https://portal.cfx.re/assets/granted-assets",
-        "message": "New update available"
-    },
     "fs_brownies": {
         "latest_version": "v1.0",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
@@ -18,5 +13,10 @@
         "latest_version": "v1.1",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
-    }
+    },
+    "fs_npcmedic": {
+        "latest_version": "v1.1",
+        "download_url": "https://portal.cfx.re/assets/granted-assets",
+        "message": "New update available"
+    },
 }
