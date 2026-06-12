@@ -53,5 +53,10 @@
         "latest_version": "v1.2",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
+    },
+    "fs_switch": {
+        "latest_version": "v2.4",
+        "download_url": "https://portal.cfx.re/assets/granted-assets",
+        "message": "New update available"
     }
 }
