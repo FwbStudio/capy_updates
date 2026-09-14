@@ -83,5 +83,10 @@
         "latest_version": "v1.0",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
+    },
+    "esx_society": {
+        "latest_version": "1.0",
+        "download_url": "https://portal.cfx.re/assets/granted-assets",
+        "message": "New update available"
     }
 }
