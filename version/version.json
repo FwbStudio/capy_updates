@@ -103,5 +103,10 @@
         "latest_version": "v1.1",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
+    },
+    "frontier_mailbox": {
+        "latest_version": "v1.0",
+        "download_url": "https://portal.cfx.re/assets/granted-assets",
+        "message": "New update available"
     }
 }
