@@ -118,5 +118,10 @@
         "latest_version": "v1.0",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
+    },
+    "cr_fishing": {
+        "latest_version": "v1.0",
+        "download_url": "https://portal.cfx.re/assets/granted-assets",
+        "message": "New update available"
     }
 }
