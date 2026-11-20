@@ -30,7 +30,12 @@
         "message": "New update available"
     },
     "fs_npcmedic": {
-        "latest_version": "v1.1",
+        "latest_version": "v1.2",
+        "download_url": "https://portal.cfx.re/assets/granted-assets",
+        "message": "New update available"
+    },
+    "fwb_npcmedic": {
+        "latest_version": "v1.2",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
     },
