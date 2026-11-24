@@ -155,12 +155,12 @@
         "message": "New update available"
     },
     "cr_interact": {
-        "latest_version": "v1.2",
+        "latest_version": "v1.3",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
     },
     "fwb_interact": {
-        "latest_version": "v1.2",
+        "latest_version": "v1.3",
         "download_url": "https://portal.cfx.re/assets/granted-assets",
         "message": "New update available"
     },
